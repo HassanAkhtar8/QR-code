@@ -1,0 +1,39 @@
+body{
+ background-color:hsl(212, 45%, 89%);
+ font-size: 15px;
+}
+.attribution { 
+ font-size: 0.68rem; 
+ text-align: center; 
+ margin-top: 1rem;
+ margin-bottom: 0.2rem;
+}
+.attribution a { 
+ color: hsl(228, 45%, 44%); 
+}
+.first{
+ text-align: center;
+ border-radius: 9px;
+ background-color:hsl(0, 0%, 100%) ;
+ margin: auto;
+ width: 16rem;
+ height:max-content;
+}
+.second{
+ padding: 0.8rem;
+ margin: auto;
+}
+img{
+ width: 14rem;
+ border-radius: 7px;
+}
+.content{
+padding: 8px;
+}
+h3{
+ margin-top: 0;
+ color: hsl(218, 44%, 22%);
+}
+p{
+ color: hsl(220, 15%, 55%);
+}
