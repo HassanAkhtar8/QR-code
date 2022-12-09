@@ -17,3 +17,5 @@
 ## Author
 
 - Website - [Hassan Akhtar](https://github.com/HassanAkhtar8/QR-code)
+
+## [Live site URL](https://hassanakhtar8.github.io/QR-code/)
