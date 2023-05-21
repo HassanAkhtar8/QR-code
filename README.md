@@ -14,10 +14,14 @@
 - HTML
 - CSS
 
-## Author
-
-- Website - [Hassan Akhtar](https://github.com/HassanAkhtar8/QR-code)
 
 ## Link
 
 - [Live site URL](https://hassanakhtar8.github.io/QR-code/)
+
+
+## Author
+
+- Hassan Akhtar
+- Website - [Hassan Akhtar](https://github.com/HassanAkhtar8/QR-code)
+
